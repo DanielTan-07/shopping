@@ -1,0 +1,83 @@
+1
+00:00:04,430 --> 00:00:04,980
+Okay.
+
+2
+00:00:05,070 --> 00:00:11,150
+We have successfully completed the rebasing process and now we have actually merged all means that were
+
+3
+00:00:11,160 --> 00:00:13,860
+made and feature on branch into master branch.
+
+4
+00:00:14,040 --> 00:00:16,750
+And now we can safely delete future one branch.
+
+5
+00:00:16,770 --> 00:00:24,330
+Let me clear terminal and enter command get branch does redeem feature 1 enter and branch feature 1
+
+6
+00:00:24,420 --> 00:00:30,300
+was deleted and at the moment we have only a single branch master and no one will step left.
+
+7
+00:00:30,300 --> 00:00:33,540
+Let's push our changes to a remote repository.
+
+8
+00:00:33,540 --> 00:00:40,620
+Yet Bush does review and I'm pushing too remote resolving deltas and changes were successfully pushed
+
+9
+00:00:40,710 --> 00:00:47,370
+a remote repository and file and or get a log amount now you'll see that the local repository and remote
+
+10
+00:00:47,370 --> 00:00:54,630
+repository are fully synchronized and local master branch and remote master branch point to the same
+
+11
+00:00:54,640 --> 00:01:01,290
+commit and actually does at last commit made in feature one branch and if I'll go back now to remote
+
+12
+00:01:01,290 --> 00:01:07,820
+repository here it is and refresh page here you'll see that there are six communes in this repository
+
+13
+00:01:08,130 --> 00:01:13,410
+and again history is linear near every committee has only a single parent.
+
+14
+00:01:13,410 --> 00:01:19,710
+That's how rebasing works in action and please use it carefully because again main point is that rebasing
+
+15
+00:01:19,890 --> 00:01:26,760
+rewrites history it creates brand new means and previous comments made in future branches are actually
+
+16
+00:01:26,760 --> 00:01:27,360
+lost.
+
+17
+00:01:27,420 --> 00:01:29,370
+They are garbage collected.
+
+18
+00:01:29,370 --> 00:01:34,830
+This is all about probation and in the next section we will discuss how to ignore some files that you
+
+19
+00:01:34,830 --> 00:01:36,330
+don't want to commit.
+
+20
+00:01:36,330 --> 00:01:37,680
+I'll see you in the next section.
+
+21
+00:01:37,680 --> 00:01:38,050
+Bye bye.
